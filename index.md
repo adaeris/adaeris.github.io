@@ -8,3 +8,9 @@
 4. Does pluto have moons?
 5. Which is fake? Astrology or Astronomy
 6. What are the names of mars' moons?
+
+
+
+
+
+ANSWERS (FINISH FIRST): https://adaeris.github.io/answers
