@@ -1,6 +1,6 @@
 layout: page
 title: "Answers"
-permalink: /quiz1answers/
+permalink: /answers/
 
 1. Nine
 2. Two
