@@ -16,7 +16,7 @@ export function ColorLockView(props) {
                 React.createElement("em", null, "Star colors from hottest to coolest")),
             React.createElement("p", null, "This and the picture underneath it should be enough for you to figure out the password...")),
         React.createElement("div", null,
-            React.createElement("img", { src: Stars, style: { margin: "auto", display: "block", maxWidth: "600px" } })),
+            React.createElement("img", { src: Stars, style: { margin: "auto", display: "block", maxWidth: "600px", width: "90%" } })),
         React.createElement("div", { className: "legend", style: { textAlign: "center" } },
             React.createElement("p", null,
                 React.createElement("span", { style: { backgroundColor: "#ffffff" } },

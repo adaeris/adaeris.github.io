@@ -15,7 +15,7 @@ export function WordLockView(props) {
             React.createElement("p", null, "To calibrate the telescope, you need to point it to a known constellation and input the constellation's name."),
             React.createElement("p", null, "You see the constellation below in the night sky...")),
         React.createElement("div", { style: { marginTop: "20px", marginBottom: "20px" } },
-            React.createElement("img", { src: Constellation, style: { margin: "auto", display: "block" } })),
+            React.createElement("img", { src: Constellation, style: { margin: "auto", display: "block", maxWidth: "600px", width: "90%" } })),
         React.createElement(Input, { expected: "SAGITTARIUS", onDone: props.onDone, validateInput: validateInput }),
         React.createElement("div", null,
             React.createElement("p", null,
