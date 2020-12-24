@@ -3,6 +3,7 @@ import { ColorLockView } from "./clock";
 import { DirectionLockView } from "./dlock";
 import { NumberLockView } from "./nlock";
 import { WordLockView } from "./wlock";
+import { FinalView } from "./final";
 import Mars from "../images/mars.jpg";
 import Computer from "../images/computer.jpg";
 import Telescope from "../images/telescope.jpg";
@@ -27,7 +28,8 @@ export function StoryView(props) {
     const computer = () => {
         if (computerUnlocked) {
             return (React.createElement("div", null,
-                React.createElement("img", { src: Computer })));
+                React.createElement("img", { src: Computer }),
+                React.createElement("p", null, "The computer is crunching numbers...")));
         }
         else {
             return (React.createElement("div", null,
@@ -40,7 +42,8 @@ export function StoryView(props) {
     const telescope = () => {
         if (telescopeUnlocked) {
             return (React.createElement("div", null,
-                React.createElement("img", { src: Telescope })));
+                React.createElement("img", { src: Telescope }),
+                React.createElement("p", null, "You can see Earth throug the telescope.")));
         }
         else {
             return (React.createElement("div", null,
@@ -53,7 +56,8 @@ export function StoryView(props) {
     const freezer = () => {
         if (freezerUnlocked) {
             return (React.createElement("div", null,
-                React.createElement("img", { src: Freezer })));
+                React.createElement("img", { src: Freezer }),
+                React.createElement("p", null, "You found some frozen lasagna. Yum!")));
         }
         else {
             return (React.createElement("div", null,
@@ -66,13 +70,24 @@ export function StoryView(props) {
     const trajectory = () => {
         if (trajectoryUnlocked) {
             return (React.createElement("div", null,
-                React.createElement("img", { src: Trajectory })));
+                React.createElement("img", { src: Trajectory }),
+                React.createElement("p", null, "You know exactly how to get home")));
         }
         else {
             return (React.createElement("div", null,
                 React.createElement("p", null,
                     React.createElement("a", { href: "#", onClick: () => setComponent(directionLock) }, "Plot the trajectory"),
                     " of your rocket before taking off.")));
+        }
+    };
+    const launch = () => {
+        if (computerUnlocked && telescopeUnlocked && freezerUnlocked && trajectoryUnlocked) {
+            return (React.createElement("div", null,
+                React.createElement("p", null, "You are ready to take off."),
+                React.createElement("button", { onClick: () => setComponent(React.createElement(FinalView, null)) }, "Launch")));
+        }
+        else {
+            return (React.createElement("div", null));
         }
     };
     const renderStory = () => {
@@ -85,7 +100,8 @@ export function StoryView(props) {
                 computer(),
                 telescope(),
                 freezer(),
-                trajectory()));
+                trajectory(),
+                launch()));
         }
         else {
             return (component);

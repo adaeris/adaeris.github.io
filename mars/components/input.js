@@ -50,7 +50,7 @@ export function Input(props) {
     const renderInputs = () => {
         const inputs = [];
         for (let i = 1; i <= props.expected.length; i++) {
-            inputs.push(React.createElement("input", { id: "box" + i, style: { gridColumn: i }, onFocus: handleFocus, onBlur: handleBlur, onKeyDown: handleKeyDown, readOnly: true, value: values[i - 1], type: "text", "data-id": i }));
+            inputs.push(React.createElement("input", { id: "box" + i, style: { gridColumn: i }, onFocus: handleFocus, onBlur: handleBlur, onKeyDown: handleKeyDown, value: values[i - 1], type: "text", "data-id": i }));
         }
         return inputs;
     };
