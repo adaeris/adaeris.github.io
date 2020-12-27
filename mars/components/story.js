@@ -43,7 +43,7 @@ export function StoryView(props) {
         if (telescopeUnlocked) {
             return (React.createElement("div", null,
                 React.createElement("img", { src: Telescope }),
-                React.createElement("p", null, "You can see Earth throug the telescope.")));
+                React.createElement("p", null, "You can see Earth through the telescope.")));
         }
         else {
             return (React.createElement("div", null,

@@ -19,9 +19,14 @@ export function Input(props) {
             return;
         }
         else if (e.key == "Backspace") {
-            values[col - 1] = "";
-            setValues(values);
-            e.currentTarget.value = "";
+            if (values[col - 1] == "" && col > 1) {
+                document.getElementById("box" + (col - 1)).focus();
+            }
+            else {
+                values[col - 1] = "";
+                setValues(values);
+                e.currentTarget.value = "";
+            }
             return;
         }
         const val = props.validateInput(e.key);
@@ -50,7 +55,7 @@ export function Input(props) {
     const renderInputs = () => {
         const inputs = [];
         for (let i = 1; i <= props.expected.length; i++) {
-            inputs.push(React.createElement("input", { id: "box" + i, style: { gridColumn: i }, onFocus: handleFocus, onBlur: handleBlur, onKeyDown: handleKeyDown, value: values[i - 1], type: "text", "data-id": i }));
+            inputs.push(React.createElement("input", { id: "box" + i, style: { gridColumn: i }, onFocus: handleFocus, onBlur: handleBlur, onKeyDown: handleKeyDown, value: values[i - 1], key: i, type: "text", "data-id": i }));
         }
         return inputs;
     };

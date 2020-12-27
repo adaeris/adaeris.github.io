@@ -1,6 +1,6 @@
 import React from "react";
-import Stars from "../images/stars.jpg";
 import { Input } from "./input";
+import Stars from "../images/stars.jpg";
 export function ColorLockView(props) {
     const validateInput = (key) => {
         if (key.length != 1 || !key.match(/[wbcory]/i)) {
@@ -48,6 +48,10 @@ export function ColorLockView(props) {
             React.createElement("p", null,
                 "... or you could always ",
                 React.createElement("a", { href: "#", onClick: props.onBack }, "go back"),
-                " and try again later."))));
+                " and try again later."),
+            React.createElement("p", null,
+                "If you are stuck, you can get ",
+                React.createElement("a", { href: "https://www.dkfindout.com/us/space/stars-and-galaxies/types-star/", target: "_blank" }, "a hint"),
+                "."))));
 }
 //# sourceMappingURL=clock.js.map

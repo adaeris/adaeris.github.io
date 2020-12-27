@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import Constellation from "../images/constellation.jpg";
 import { Input } from "./input";
 export function WordLockView(props) {
@@ -7,6 +7,18 @@ export function WordLockView(props) {
             return undefined;
         }
         return key.toUpperCase();
+    };
+    const [hintOn, setHintOn] = useState(false);
+    const hint = () => {
+        if (hintOn) {
+            return (React.createElement("p", null, "This constellation is part of the zodiac."));
+        }
+        else {
+            return (React.createElement("p", null,
+                "If you are stuck, you can get ",
+                React.createElement("a", { href: "#", onClick: () => setHintOn(true) }, "a hint"),
+                "."));
+        }
     };
     return (React.createElement("div", { className: "lock" },
         React.createElement("div", { className: "txt" },
@@ -17,10 +29,11 @@ export function WordLockView(props) {
         React.createElement("div", { style: { marginTop: "20px", marginBottom: "20px" } },
             React.createElement("img", { src: Constellation, style: { margin: "auto", display: "block", maxWidth: "600px", width: "90%" } })),
         React.createElement(Input, { expected: "SAGITTARIUS", onDone: props.onDone, validateInput: validateInput }),
-        React.createElement("div", null,
+        React.createElement("div", { className: "txt" },
             React.createElement("p", null,
                 "... or you could always ",
                 React.createElement("a", { href: "#", onClick: props.onBack }, "go back"),
-                " and try again later."))));
+                " and try again later."),
+            hint())));
 }
 //# sourceMappingURL=wlock.js.map
