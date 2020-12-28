@@ -9,9 +9,9 @@
 Warrior cats is a book series. Currently there are 7 arcs.
 1. The Prophecy Begins
 2. The New Prophecy
-3. The Power Of Three
-4. Omen Of The Stars
-5. Dawn Of The Clans
+3. The Power of Three
+4. Omen of The Stars
+5. Dawn of The Clans
 6. A Vision of Shadows
 7. The Broken Code
 
@@ -20,4 +20,4 @@ There are 6 books in every arc.
 
 (The picture on the top is From The Power Of Three. Book 4 called eclipse)
 
-This is unoffical because i don't own Warriors.
+This is unoffical because I don't own Warriors.
