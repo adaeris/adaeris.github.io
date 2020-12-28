@@ -17,8 +17,9 @@ Warrior cats is a book series. Currently there are 7 arcs.
 7. The Broken Code
 
 There are 6 books in every arc.
-
-
+And no, I am not going to name every book.
+In every book there are 20-30 chapters
+There are also manga, feild guids, extra novels, and super editions. (super editions have about 50 chapters ;-;)
 (The picture on the top is From The Power Of Three. Book 4 called eclipse)
 
 This is unoffical because I don't own Warriors.
