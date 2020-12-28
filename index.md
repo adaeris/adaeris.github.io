@@ -4,7 +4,7 @@
 
 [Quiz 1](https://adaeris.github.io/quiz1)
 
-[Warrior cats blog](adaeris.github.io/warriorblog.md)
+[Warrior cats blog](https://adaeris.github.io/warriorblog)
 
 
 Warrior cats is a book series by Erin Hunter. Currently there are 7 arcs.
