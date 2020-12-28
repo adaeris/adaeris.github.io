@@ -7,7 +7,7 @@
 [Warrior cats blog](adaeris.github.io/warriorblog.md)
 
 
-Warrior cats is a book series. Currently there are 7 arcs.
+Warrior cats is a book series by Erin Hunter. Currently there are 7 arcs.
 1. The Prophecy Begins
 2. The New Prophecy
 3. The Power of Three
