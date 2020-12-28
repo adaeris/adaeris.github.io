@@ -4,6 +4,7 @@
 
 [Quiz 1](https://adaeris.github.io/quiz1)
 
+[Warrior cats blog](adaeris.github.io/warriorblog.md)
 
 
 Warrior cats is a book series. Currently there are 7 arcs.
