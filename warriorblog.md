@@ -27,4 +27,8 @@ Twoleg=human
 Twolegplace=home
 
 
+January 1, 2021. 2021 is here! There will be a few things that will be special this year I hope!
+I wonder wwhat will 2021 bring us. Have a Happy New Year!
+The newest Warrior Cats book will be book 6 of The Broken Code. A Light in the Mist. It will come this year!
+
 That is it for now! Stay tuned :D
