@@ -25,3 +25,8 @@ There are also manga, feild guids, extra novels, and super editions. (super edit
 (The picture on the top is From The Power Of Three. Book 4 called eclipse)
 
 This is unoffical because I don't own Warriors.
+
+
+
+Space, we don't know a lot about it. Though we are learning. It will take many years to figure out what is here in the present, that is nearby
+The universe keeps growing. It will take so long, we might never know everything in space. - Leo (The creater of the website nickname)
