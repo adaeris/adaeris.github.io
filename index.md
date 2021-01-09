@@ -8,6 +8,8 @@
 
 [Space blog](adaeris.github.io/spaceblog)
 
+[Generate warrior name](https://adaeris.github.io/catnames/)
+
 
 Warrior cats is a book series by Erin Hunter. Currently there are 7 arcs.
 1. The Prophecy Begins
