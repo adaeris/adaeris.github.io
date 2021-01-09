@@ -19,11 +19,15 @@ export function PickerView(props) {
         }
         const text = yield response.text();
         const lines = text.split("\n");
+        const result = [];
         lines.forEach((element, idx) => {
-            lines[idx] = { name: element, value: element };
+            if (element != "") {
+                result.push({ name: element, value: element });
+            }
         });
-        setOptions(lines);
-        props.onNameChange(lines[0].value);
+        setOptions(result);
+        setValue(result[0].value);
+        props.onNameChange(result[0].value);
     });
     const random = () => {
         const newValue = options[Math.floor(Math.random() * options.length)].value;

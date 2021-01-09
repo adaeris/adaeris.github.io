@@ -8,7 +8,6 @@ export function MainView(props) {
         React.createElement(PickerView, { title: "Suffix", uid: "sid", path: props.suffixes, onNameChange: setSuffix }),
         React.createElement("p", null,
             prefix,
-            " ",
             suffix)));
 }
 //# sourceMappingURL=main.js.map
