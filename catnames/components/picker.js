@@ -9,10 +9,10 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 import React, { useEffect, useState } from "react";
 import SelectSearch from 'react-select-search';
-export function PickerView(props) {
+export const PickerView = React.forwardRef((props, ref) => {
     const [options, setOptions] = useState(undefined);
     const [value, setValue] = useState("");
-    const getFile = () => __awaiter(this, void 0, void 0, function* () {
+    const getFile = () => __awaiter(void 0, void 0, void 0, function* () {
         const response = yield fetch(props.path);
         if (!response.ok) {
             return;
@@ -42,6 +42,6 @@ export function PickerView(props) {
     return (React.createElement("div", { className: "picker" },
         React.createElement("span", null, props.title),
         React.createElement(SelectSearch, { options: options, value: value, search: true, onChange: props.onNameChange }),
-        React.createElement("button", { onClick: random }, "\uD83D\uDC08")));
-}
+        React.createElement("button", { onClick: random, ref: ref }, "\uD83D\uDC08")));
+});
 //# sourceMappingURL=picker.js.map
