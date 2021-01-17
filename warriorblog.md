@@ -32,3 +32,9 @@ I wonder what will 2021 bring us. Have a Happy New Year!
 The newest Warrior Cats book will be book 5 of The Broken Code. The Place of no Stars. It will come this year!
 
 That is it for now! Stay tuned :D
+
+
+Silverpelt=Milky Way
+
+I FINISHED THE FIRST SEREISSSSSSSSSS!!!!!!
+I also finished the first book of the second sereis, Midnight. Midnight is a badger wich they meet at the end of the book XD. Here is a picture of Midnight. (the badger)
