@@ -37,4 +37,4 @@ That is it for now! Stay tuned :D
 Silverpelt=Milky Way
 
 I FINISHED THE FIRST SEREISSSSSSSSSS!!!!!!
-I also finished the first book of the second sereis, Midnight. Midnight is a badger wich they meet at the end of the book XD. Here is a picture of Midnight. (the badger)
+I also finished the first book of the second sereis, Midnight. Midnight is a badger wich they meet at the end of the book XD.
