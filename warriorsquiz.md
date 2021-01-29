@@ -27,7 +27,7 @@ The Prophecies Begin Quiz (arc 1)
 
 
 
-[Answers. Finish first! :3](https://adaeris.github.io/warriorsquizanswers
+[Answers. Finish first! :3](https://adaeris.github.io/warriorsquizanswers)
 
 
 More Tomorrow!
