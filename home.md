@@ -10,7 +10,7 @@
 
 [Generate name](https://adaeris.github.io/catnames/)
 
-[Warrior Cats quiz](https://adaeris.github.io/warriorcatsquiz)
+[Warrior Cats quiz](https://adaeris.github.io/warriorsquiz)
 
 
 Warrior cats is a book series by Erin Hunter. Currently there are 7 arcs.
