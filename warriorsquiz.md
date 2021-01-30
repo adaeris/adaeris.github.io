@@ -8,7 +8,7 @@ The Prophecies Begin Quiz (arc 1)
 
 3. Who killed Redtail?
 
-4. Which apprentice wanted to fight at sunningrocks to be a warrior? Who went with them?
+4. Which apprentice wanted to fight at snakerocks to be a warrior? Who went with them?
 
 5. Who is deputy after Tigerclaw?
 
