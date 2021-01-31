@@ -14,6 +14,8 @@
 
 [My OCs! copy if you want :3](https://adaeris.github.io/OCS)
 
+[Darkness in the Forest (Book 1) alleigences!](https://adaeris.github.io/BookoneDarknessintheForestAlleigences)
+
 
 Warrior cats is a book series by Erin Hunter. Currently there are 7 arcs.
 1. The Prophecy Begins
