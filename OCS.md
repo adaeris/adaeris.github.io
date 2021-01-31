@@ -1,5 +1,7 @@
 Here i will put OCs that I made!
 
+All will be in the books i will make! (Ones without bios means they will only be used for the books but you can still copy!)
+
 Bluefire. Gray-blue she-cat with blue eyes and two blue feathers on the ear. Bio: she-cat~ kind ~_____________ ~_____________
 
 Cherrysong. Creme she-cat, one red eye and one green eye. Bio: she-cat~ kind ~quiet ~loner
@@ -12,5 +14,11 @@ Shellpaw. very light gray she-cat, vines on her front paws, blue eyes, and exile
 
 Oreo. White she-kit with black spots and a purple collar. kittypet. Bio: She-kit~ scared of pretty much everthing ~clumsy~kittypet
 
+Ravenfeather. Black tom with yellow eyes.
 
+Shrewstar. Tan tom with green eyes. leader of Windclan
+
+Dapplefern. Brown she-cat with reddish-brown spots
+
+That is it I will make more! I will work on the Alleigences for the books with these!
 (DO NOT AT SPACES IN NAMES!!)
