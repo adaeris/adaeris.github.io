@@ -151,6 +151,76 @@ Dappleheart. Pale-orange she-cat with sandy-gray spots
 
 ## leader 
 
-Shrewstar. Tan tom with green eyes. leader of Windclan
+Shrewstar. Tan tom with green eyes.
 
-# WORK IN PROGRESS!!
+Tanglepaw. Light brown tom with dark brown eyes
+
+## Deputy
+
+Ashpelt. Dark gray tom with Brown eyes
+
+Squirrelpaw. Flame-colored ginger she-cat with yellow eyes
+
+## Medecine cat
+
+Breezebird. Black tom with blue eyes
+
+## Warriors
+
+Bluefire. Gray-blue she-cat with blue eyes
+
+Sparkmoon. Silver she-cat with yellow eyes
+
+Apprentice: Frostpaw. White she-cat with green eyes
+
+Boulderpeak. Gray tom with dark brown eyes
+
+Sparrowspirit. Reddish-brown tom with light brown eyes
+
+Jaybranch. Pale blue-gray tom with green eyes
+
+Apprentice: Sharppaw. Dark brown tom with light brown eyes
+
+Spireblossom. Dark brown she-cat with yellow eyes
+
+Apprentice: Birchpaw. Cream tom with green eyes
+
+Strikefeather. Pale brown tom with yellow eyes
+
+Apprentice: Sorrelpaw. Reddish-brown she-cat with yellow eyes
+
+Foxspring. Ginger she-cat with yellow eyes
+
+Iceheart. Pale gray tom with blue eyes
+
+## Apprentices
+
+Tanglepaw. Light brown tom with dark brown eyes
+
+Squirrelpaw Flame-colored ginger she-cat with yellow eyes
+
+Frostpaw. White she-cat with green eyes
+
+Sharppaw. Dark brown tom with light brown eyes
+
+Birchpaw. Cream tom with green eyes
+
+Sorrelpaw. Reddish-brown she-cat with yellow eyes
+
+## Queens
+
+Hollybee. Black she-cat with yellow eyes.
+
+kits: Bumblekit. Black tom with yellow eyes, Ripplekit. Pale blue-gray she-kit with green eyes, Swankit. Pale blue-gray she-kit with yellow eyes.
+
+## Elders
+
+Birdpeak. Gray tom with green eyes
+
+# Shadowclan
+
+## Leader
+
+Nightstar. Black she-cat with blue eyes
+
+# WORK IN PROGRESS!!!
