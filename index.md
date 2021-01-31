@@ -12,7 +12,7 @@
 
 [Warrior Cats quiz](https://adaeris.github.io/warriorsquiz)
 
-[my OCs! copy if you want :3](https://adaeris.github.io/OCS)
+[My OCs! copy if you want :3](https://adaeris.github.io/OCS)
 
 
 Warrior cats is a book series by Erin Hunter. Currently there are 7 arcs.
@@ -36,3 +36,5 @@ This is unoffical because I don't own Warriors.
 
 Space, we don't know a lot about it. Though we are learning. It will take many years to figure out what is here in the present, that is nearby
 The universe keeps growing. It will take so long, we might never know everything in space. - Leo (The creater of the website nickname)
+
+I can make plenty of OCs for you and maybe with all of them I can make something like my own Warriors books! It will take a while. but tell me your thoughts! click 'My OCs! copy if you want :3' above to read their discriptions I gave them!
