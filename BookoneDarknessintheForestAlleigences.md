@@ -259,7 +259,7 @@ Frostbook. Creame she-cat with blue eyes
 
 Apprentice: Mistypaw. Silver she-cat with light green eyes
 
-Puddleclaw. Sandy-gray tom with  Dark brown eyes
+Puddleclaw. Golden-brown tom with  Dark brown eyes
 
 Apprentice: Birdpaw. Black tom with orange eyes
 
@@ -282,6 +282,8 @@ Birdpaw. Black tom with orange eyes
 ## Queens
 
 Berrysky. pale blue-gray she-cat with yellow eyes
+
+Kits: Honeykit. Golden-brown she-kit with yellow eyes, Skykit. Blue-gray she-cat with dark brown eyes.
 
 ## Elders
 
