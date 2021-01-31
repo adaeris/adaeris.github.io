@@ -70,3 +70,19 @@ Heatherfrost. Silver She-cat with Brown eyes, expecting kits
 Spotbark. Creme she-cat with Green eyes
 
 Russetfang. Reddish-brown tom with light brown eyes
+
+# Riverclan
+
+## Leader
+
+Gorsestar. white tom with ginger spots and blue eyes
+
+## Deputy
+
+Moonpetal. Pinkish-gray she-cat with green eyes
+
+Apprentice:  Nettlepaw. Pale-gray tom with yellow eyes.
+
+
+
+# WORK IN PROGRESS!! WILL CONTINUE SOON!!!!
