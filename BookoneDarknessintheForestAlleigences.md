@@ -61,7 +61,7 @@ Berrypaw. Pale ginger tom with green eyes
 
 Dapplefern. Brown she-cat with reddish-brown spots and green eyes.
        
-Dapplefern's kits: Shatterdkit. Reddish brown tom with green eyes, Hollykit Dark brown she-kit with green eyes, and Minnowkit. Brown She-kit with Yellow eyes.
+Dapplefern's kits: Shatterdkit. Reddish brown tom with green eyes. Hollykit Dark brown she-kit with green eyes. and Minnowkit. Brown She-kit with Yellow eyes
 
 Heatherfrost. Silver She-cat with Brown eyes, expecting kits
         
@@ -211,7 +211,7 @@ Sorrelpaw. Reddish-brown she-cat with yellow eyes
 
 Hollybee. Black she-cat with yellow eyes.
 
-kits: Bumblekit. Black tom with yellow eyes, Ripplekit. Pale blue-gray she-kit with green eyes, Swankit. Pale blue-gray she-kit with yellow eyes.
+kits: Bumblekit. Black tom with yellow eyes. Ripplekit. Pale blue-gray she-kit with green eyes. Swankit. Pale blue-gray she-kit with yellow eyes.
 
 ## Elders
 
@@ -283,7 +283,7 @@ Birdpaw. Black tom with orange eyes
 
 Berrysky. pale blue-gray she-cat with yellow eyes
 
-Kits: Honeykit. Golden-brown she-kit with yellow eyes, Skykit. Blue-gray she-cat with dark brown eyes.
+Kits: Honeykit. Golden-brown she-kit with yellow eyes, rarely deaf. Skykit. Blue-gray she-cat with dark brown eyes
 
 ## Elders
 
