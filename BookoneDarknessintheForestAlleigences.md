@@ -11,15 +11,15 @@ Daisystar. Cream she-cat with with Brown eyes
 
 ## Deputy
 
-Ambercloud. White she-cat with green eyes
+Stoneblossom. Gray she-cat with purple eyes Ambercloud. White she-cat with green eyes
        
 Apprentice: Oakpaw. Dark brown tom with Yellow eyes.
 
 ## Medecine cat
 
-Stoneblossom. Gray she-cat with purple eyes
+Ambercloud. White she-cat with blue eyes
              
-Apprentice: Silverpaw. Light gray she-cat with light blue eyes
+Apprentice: Silverpaw. Light gray she-cat with light blue eyes, just got apprenticed
 
 ## Warriors 
 
@@ -223,4 +223,72 @@ Birdpeak. Gray tom with green eyes
 
 Nightstar. Black she-cat with blue eyes
 
-# WORK IN PROGRESS!!!
+Apprentice: Snakepaw. Brown tom with green eyes
+
+## Deputy
+
+Shiningrose. Gold she-cat with red eyes
+
+## Medecine cat
+
+Tallbird. Black tom with white stripes with yellow eyes
+
+Fogshine. White she-cat with blue eyes, deaf
+
+Apprentice: Quickpaw. Black tom with white spots and orange eyes
+
+## Warriors
+
+Blueclaw. Blue-gray tom with dark blue eyes
+
+Snapbee. Dark brown tom with yellow eyes
+
+Apprentice: Heatherpaw. Blue-gray she-cat with green eyes
+
+Flowerheart. Reddish-brown she-cat with green eyes
+
+Apprentice: Spikepaw. Reddish brown tom with blue eyes
+
+Duskflight. Black she-cat with yellow eyes
+
+Dustcloud. Dark brown tom with orange eyes
+
+Needlebush. Black she-cat with orange eyes
+
+Frostbook. Creame she-cat with blue eyes
+
+Apprentice: Mistypaw. Silver she-cat with light green eyes
+
+Puddleclaw. Sandy-gray tom with  Dark brown eyes
+
+Apprentice: Birdpaw. Black tom with orange eyes
+
+Swampslip. Reddish-brown tom with dark green eyes
+
+## Apprentices
+
+Apprentice: Snakepaw. Brown tom with green eyes
+
+Apprentice: Quickpaw. Black tom with white spots and orange eyes
+
+Heatherpaw. Blue-gray she-cat with green eyes
+
+Spikepaw. Reddish brown tom with blue eyes
+
+Mistypaw. Silver she-cat with light green eyes
+
+Birdpaw. Black tom with orange eyes
+
+## Queens
+
+Berrysky. pale blue-gray she-cat with yellow eyes
+
+## Elders
+
+Chesnutsky. Dark brown tom with orange eyes
+
+# Cats outside of the clans
+
+Shellpaw. very light gray she-cat, vines on her front paws, blue eyes, and exiled from Riverclan for no reason, and dislikes Riverclan a lot because of that and wants revenge on Riverclan
+
+Oreo. White she-kit with black spots and a purple collar. kittypet
