@@ -251,11 +251,15 @@ Apprentice: Spikepaw. Reddish brown tom with blue eyes
 
 Duskflight. Black she-cat with yellow eyes
 
+Apprentice: Honeypaw. Gold brown she-cat with yellow eyes, rarely deaf
+
 Dustcloud. Dark brown tom with orange eyes
+
+Apprentice: Skypaw. Blue-gray she-cat with dark brown eyes
 
 Needlebush. Black she-cat with orange eyes
 
-Frostbook. Creame she-cat with blue eyes
+Frostbrook. Creame she-cat with blue eyes
 
 Apprentice: Mistypaw. Silver she-cat with light green eyes
 
@@ -279,11 +283,12 @@ Mistypaw. Silver she-cat with light green eyes
 
 Birdpaw. Black tom with orange eyes
 
+Honeypaw. Gold brown she-cat with yellow eyes, rarely deaf
+
+Skypaw. Blue-gray she-cat with dark brown eyes
 ## Queens
 
-Berrysky. pale blue-gray she-cat with yellow eyes
-
-Kits: Honeykit. Golden-brown she-kit with yellow eyes, rarely deaf. Skykit. Blue-gray she-cat with dark brown eyes
+Berrysky. pale blue-gray she-cat with yellow eyes. Epecting more kits.
 
 ## Elders
 
