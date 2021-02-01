@@ -40,7 +40,7 @@ Ugh, why does Honeykit HAVE to be deaf? Skykit thought very upset while she padd
 
 "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH" Skykit and Honeykit screamed
 
-## Chapter two (Honeykit)
+## Chapter two (Honeypaw)
 
 The day after they got the news there was a clan meeting. 
 
