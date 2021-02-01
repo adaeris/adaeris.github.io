@@ -45,4 +45,4 @@ The universe keeps growing. It will take so long, we might never know everything
 
 I can make plenty of OCs for you and maybe with all of them I can make something like my own Warriors books! It will take a while. but tell me your thoughts! click 'My OCs! copy if you want :3' above to read their discriptions I gave them!
 
-Alleigences done! Chapter 1 Started!! In Darkness in the Forest you are Skykit!
+I am sorry if Darkness in the Forest is short!
