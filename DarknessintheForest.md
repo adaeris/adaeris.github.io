@@ -63,3 +63,17 @@ Honeykit stepped forward.
 "Honeykit, you have reached the age of six moons, and it is time for you to be apprenticed. From this day on, until you receive your warrior name, you will be known as Honeypaw. Your mentor will be Duskflight." Nightstar finished.
 
 "HONEYPAW, HONEYPAW" Everyone in camp chanted.
+
+Honeypaw padded to Duskflight and touched noses with her and Skypaw did the same with Dustcloud.
+
+"Clan dismissed." Nightstar said to the clan.
+
+"Do you want to go explore the territory?" Duskflight asked.
+
+"Yes!" Honeypaw exlmaied.
+
+"I can go see if we can do it with Skypaw." Duskflight added.
+
+## Chapter 3 (Skypaw)
+
+Duskflight padded up to Dustcloud and asked him something Skypaw couln't hear.
