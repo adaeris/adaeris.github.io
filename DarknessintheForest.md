@@ -16,7 +16,7 @@ Hmm, maybe we can play. it would be fun. Skykit thought.
 
 "What did you say?" Honeykit asked.
 
-Honeykit is rarely deaf. and Skykit hated it.
+Honeykit is mostly deaf. and Skykit hated it.
 
 "WHO SHOULD THROW FIRST?!?" Skykit almost yelling.
 
@@ -24,7 +24,7 @@ Honeykit is rarely deaf. and Skykit hated it.
 
 "Alright" Skykit told Honeykit while she passed to the medecine den to get the moss. 
 
-Skykit cam back with mos and gave it to Honeykit. Honeykit threw the moss very hard and Skykit almost caugt it.
+Skykit cam back with mos and gave it to Honeykit. Honeykit threw the moss very hard and Skykit almost caught it.
 
 "Ow..." Skykit waid as the moss hit her face.
 
