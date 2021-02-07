@@ -283,7 +283,7 @@ Mistypaw. Silver she-cat with light green eyes
 
 Birdpaw. Black tom with orange eyes
 
-Honeypaw. Gold brown she-cat with yellow eyes, rarely deaf
+Honeypaw. Gold brown she-cat with yellow eyes, mostly deaf
 
 Skypaw. Blue-gray she-cat with dark brown eyes
 ## Queens
