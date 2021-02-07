@@ -4,13 +4,35 @@
 
 ## Chapter 1 (Skykit)
 
-"AH!" Skykit screamed.
+It was a nice sunny day. Skykit went outside of the nursery with Honeykit, her sister. Berrysky, her mother was watching them from the nursery.
 
-"What? Did I throw the moss too hard??" Asked Honeykit her sister.
+"You guys can play mossball." Berrysky requested.
+
+Hmm, maybe we can play. it would be fun. Skykit thought.
+
+"Lets do it!" Honeykit replied exitedly.
+
+"Who should throw first?" Skykit asked.
+
+"What did you say?" Honeykit asked.
+
+Honeykit is rarely deaf. and Skykit hated it.
+
+"WHO SHOULD THROW FIRST?!?" Skykit almost yelling.
+
+"I can."  Honeykit offered.
+
+"Alright" Skykit told Honeykit while she passed to the medecine den to get the moss. 
+
+Skykit cam back with mos and gave it to Honeykit. Honeykit threw the moss very hard and Skykit almost caugt it.
+
+"Ow..." Skykit waid as the moss hit her face.
+
+"What? Did I throw the moss too hard??" Asked Honeykit
 
 "Yes.." Replied Skykit.
 
-Skykit was playing mossball with her.
+Skykit was really done after that.
 
 "What did you say?" Asked Honeykit.
 
