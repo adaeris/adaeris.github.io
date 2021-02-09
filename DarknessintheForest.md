@@ -99,3 +99,15 @@ Honeypaw padded to Duskflight and touched noses with her and Skypaw did the same
 ## Chapter 3 (Skypaw)
 
 Duskflight padded up to Dustcloud and asked him something Skypaw couln't hear.
+
+"No. I was thinking we would start at the Thunderclan boarder. Not the Riverclan boarder." Dustcloud replied to Duskflight.
+
+"Oh.. alright." Duskflight said sadly padding twards Honeypaw.
+
+"What did he say??" Honeypaw asked.
+
+"He said no." Duskflight said in Honeypaw's ear.
+
+"Oh... okay..." Honeypaw reacted.
+
+"Come on Skypaw lets go look around the territory starting with the Thunderclan boarder." Dustcloud told Skypaw.
