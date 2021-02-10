@@ -115,6 +115,8 @@ Thrushfur. Pale gray tom with blue eyes
 
 Poppyshade. Pinkish-gray she-cat with dark brown eyes
 
+Apprentice: Lakepaw. Pale-gray she-cat. Kind of rude...
+
 Thornstem. Golden-brown tom with green eyes
 
 Apprentice: Shiveringpaw. White tom with Blue eyes
@@ -137,11 +139,14 @@ Mistpaw. Pale gray she-cat with Green eyes
 
 Shiveringpaw. White tom with Blue eyes
 
+Lakepaw. Pale-gray she-cat with blue eyes. Kind if rude..
+
 ## Queens
 
 Moonfrost. Pale blue-gray she-cat with blue eyes
 
 Kit:　Seedkit. Tan she-kit with green eyes
+
 
 ## Elders
 
