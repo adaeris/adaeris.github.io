@@ -111,3 +111,9 @@ Duskflight padded up to Dustcloud and asked him something Skypaw couln't hear.
 "Oh... okay..." Honeypaw reacted.
 
 "Come on Skypaw lets go look around the territory starting with the Thunderclan boarder." Dustcloud told Skypaw.
+
+"Can we go with Honeypaw?" Skypaw asked exited.
+
+"No, all kin needs to learn to separate from their kin." Dustcloud said in a hard tone that shocked Skypaw.
+
+"Alright..." Skypaw said Grimly.
