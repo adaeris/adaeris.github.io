@@ -11,13 +11,13 @@ Daisystar. Cream she-cat with with Brown eyes
 
 ## Deputy
 
-Stoneblossom. Gray she-cat with purple eyes Ambercloud. White she-cat with green eyes
+Stoneblossom. Gray she-cat with purple eyes
        
 Apprentice: Oakpaw. Dark brown tom with Yellow eyes.
 
-## Medecine cat
+## Medecine cats
 
-Ambercloud. White she-cat with blue eyes
+Ambercloud. White she-cat with green eyes
              
 Apprentice: Silverpaw. Light gray she-cat with light blue eyes, just got apprenticed
 
@@ -37,7 +37,7 @@ Apprentice: Cherrypaw. Creme she-cat with one red eye and one green eye
 
 Pinefire. Sandy-gray tom with Brown eyes
 
-Apprentice: Berrypaw. Pale ginger tom with green eyes
+Apprentice: Berrypaw. Pale ginger tom with brown eyes
           
 Riverhawk. Pale blue-gray Tom with dark brown eyes
           
@@ -55,7 +55,7 @@ Oakpaw. Dark brown tom with Yellow eyes.
 
 Cherrypaw. Creme she-cat with one red eye and one green eye
 
-Berrypaw. Pale ginger tom with green eyes
+Berrypaw. Pale ginger tom with brown eyes
 
 ## Queens
 
@@ -89,7 +89,7 @@ Apprentice:  Nettlepaw. Pale-gray tom with yellow eyes
 
 Silvercreek. Silver she-cat with lavender eyes
 
-Apprentice: Ivypaw. Gray she-cat with blue eyes
+Apprentice: Ivypaw. Gray she-cat with green eyes
 
 Talonbird. Brown tom with a darker brown tail with yellow eyes
 
