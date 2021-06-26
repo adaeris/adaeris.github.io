@@ -17,7 +17,7 @@
 
 [Darkness in the Forest (Book 1) Alleigences!](https://adaeris.github.io/BookoneDarknessintheForestAlleigences)
 
-[Climbers book 1. The Journey Begins Alleigences.] (https://adaeris.github.io/ClimbersTheJourneyBeginsAlleigences)
+[Climbers book 1. The Journey Begins Alleigences.](https://adaeris.github.io/ClimbersTheJourneyBeginsAlleigences)
 
 WORK IN PROGRESS!!
 
