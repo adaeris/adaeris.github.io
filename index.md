@@ -14,7 +14,7 @@
 
 [My OCs! copy if you want :3](https://adaeris.github.io/OCS)
 
-[Simple space quiz!] (adaeris.github.io/simplespacequiz.md)
+[Simple space quiz!](adaeris.github.io/simplespacequiz.md)
 
 Warrior cats is a book series by Erin Hunter. Currently there are 7 arcs.
 1. The Prophecy Begins
