@@ -23,7 +23,7 @@ Warrior cats is a book series by Erin Hunter. Currently there are 7 arcs.
 4. Omen of The Stars
 5. Dawn of The Clans
 6. A Vision of Shadows
-7. (UNFINISHED) The Broken Code
+7. The Broken Code
 8. (COMING SOON!) A Starless Clan
 
 There are 6 books in every arc.
