@@ -2,24 +2,14 @@
 
 [Escape Room](https://adaeris.github.io/mars/index.html#)
 
-[Space blog](adaeris.github.io/spaceblog)
+[Generate Warriors Name](https://adaeris.github.io/catnames/)
 
-[Generate name](https://adaeris.github.io/catnames/)
+A few things I enjoy include: Warriors, Wings of Fire, space, cats, otters, axolotls, Uno (and uno flip), anime (ones that I know), and games (ones that I know).
 
-Warrior cats is a book series by Erin Hunter. Currently there are 7 arcs.
-1. The Prophecy Begins
-2. The New Prophecy
-3. The Power of Three
-4. Omen of The Stars
-5. Dawn of The Clans
-6. A Vision of Shadows
-7. The Broken Code
-8. (COMING SOON!) A Starless Clan
+Anime include: 
 
-There are 6 books in every arc.
-And no, I am not going to name every book.
-In every book there are 20-30 chapters
-There are also manga, feild guids, extra novels, and super editions. (super editions have about 40-50 chapters and novellas are 7-10 chapters, talk about short and long ;-;)
-(The picture on the top is From The Power Of Three. Book 4 called eclipse)
+Sword Art Online, Gun Gale Online, No Game No Life, Saiki K., Angel Beats, Fruits Basket, Noragami, Demon Slayer, K-On!, Toradora!, A Certain Magical Index, Hunter X Hunter, and Toilet-Bound Hanako-kun.
 
-This is unoffical because I don't own Warriors or space (who owns space tho ;-;)
+Games include: 
+
+Genshin Impact, Honkai Impact, Super Mecha Champions, Cookie run Kingdom, Roblox, Minecraft, Cuphead, and Danganronpa.
