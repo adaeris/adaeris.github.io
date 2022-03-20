@@ -2,17 +2,9 @@
 
 [Escape Room](https://adaeris.github.io/mars/index.html#)
 
-[Warrior cats blog](https://adaeris.github.io/warriorblog)
-
 [Space blog](adaeris.github.io/spaceblog)
 
 [Generate name](https://adaeris.github.io/catnames/)
-
-[Warrior Cats quiz (Old)](https://adaeris.github.io/warriorsquiz)
-
-[My OCs! copy if you want :3](https://adaeris.github.io/OCS)
-
-[Simple space quiz!](adaeris.github.io/simplespacequiz.md)
 
 Warrior cats is a book series by Erin Hunter. Currently there are 7 arcs.
 1. The Prophecy Begins
