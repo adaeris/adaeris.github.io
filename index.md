@@ -7,7 +7,7 @@ Anime include:
 Sword Art Online, Gun Gale Online, No Game No Life, The Disasterous Life of Saiki K., Noragami, K-On!, Toradora!,and Toilet-Bound Hanako-kun.
 
 Other games I like:
-Roblox, Minecraft Dungeons, Honkai Impact 3rd (kind of), and Minecraft (kind of)
+Roblox (Specifically Flicker, 3008, and Dead Silence, Minecraft Dungeons, Honkai Impact 3rd (kind of), and Minecraft (kind of)
 
 Favorite books include:
 The Giver Series, Manga, Neil Gaiman (Coraline and The Ocean at the End of the Lane specifically), and Answers in the Pages. 
