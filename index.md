@@ -11,8 +11,7 @@ Roblox (Specifically Flicker, 3008, and Dead Silence, Minecraft Dungeons, Honkai
 
 Favorite books include:
 The Giver Series, Manga, Neil Gaiman (Coraline and The Ocean at the End of the Lane specifically), and Answers in the Pages. 
-I am starting to read the Lunar Chronicles too.
-
+I am starting to read the Lunar Chronicles and The Hunger Games as well.
 
 
 This was 100% not last updated like a year ago.
