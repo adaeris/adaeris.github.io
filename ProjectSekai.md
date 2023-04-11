@@ -21,10 +21,15 @@ Alternate account: Nothing really
 4. Leo/Need
 
 #### Favorite Characters From Each Group
+
 Leo/Need: Hinomori Shiho
+
 More More Jump!: Momoi Airi
+
 Vivid Bad Squad: Shiraishi An/Aoyagi Toya
+
 Wonderlands x Showtime: Tenma Tsukasa (All time favorite)
+
 Nightcord at 25:00: Akiyama Mizuki (Also all time favorite)
 
 I will have a page for each group, character and my opinions on them in the future.
@@ -33,5 +38,7 @@ I will have a page for each group, character and my opinions on them in the futu
 ### User IDs:
 
 Main Account(On Worldwide Server): 260911482093518852
+
 Alternate Account (On Worldwide Server): 289531683634417670
+
 Feel free to friend me!
