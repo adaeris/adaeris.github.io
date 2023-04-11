@@ -20,7 +20,7 @@ I'll probably start updating this with more info on the things I like.
 
 Other Pages:
 
-[Project Sekai: Colorful Stage!](adaeris.github.io/puroseka.md)
+[Project Sekai: Colorful Stage! (Currently broken, trying to fix it)](adaeris.github.io/puroseka.md)
 
 [Escape Room](https://adaeris.github.io/mars/index.html#)
 
