@@ -1,2 +1,2 @@
-# adaeris.github.io
+# Mizu.github.io
 personal website
