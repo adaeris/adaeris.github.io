@@ -20,10 +20,10 @@ I'll probably start updating this with more info on the things I like.
 
 Other Pages:
 
-[Project Sekai: Colorful Stage! (Currently broken, trying to fix it)] adaeris.github.io/puroseka.md
+[Project Sekai: Colorful Stage! (Currently broken, trying to fix it)](adaeris.github.io/puroseka.md)
 
 [Escape Room](https://adaeris.github.io/mars/index.html#)
 
 (Shameless plug)
 
-YouTube Channel for Project Sekai content: https://www.youtube.com/channel/UCq5-z3X0Za-oR4l0Rpgyrqg
+[YouTube Channel for Project Sekai content](https://www.youtube.com/channel/UCq5-z3X0Za-oR4l0Rpgyrqg)
