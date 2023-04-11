@@ -1,38 +1,36 @@
-Section about: Project Sekai: Colorful Stage!
+# Section about: Project Sekai: Colorful Stage!
 
 
 I play this game a lot. And when I say a lot, I mean multiple times everyday. 
 So what I'm up to, opinions, as well as user IDs for both accounts I have will be on this page
 
 
-What I'm currently up to:
+### What I'm currently up to:
 
-Main account: Saving for the "On the Stage of Dazzling Light" Tsukasa card (almost 15k :D)
+Main account: Saving for the "On the Stage of Dazzling Light" Tsukasa card (at 15k :D)
 
 Alternate account: Nothing really
 
 
-Notable Opinions
+### Notable Opinions
 
-Group Ranks (in my opinion)
+#### Groups Ranked (in my opinion)
 1. Nightcord at 25:00 / Wonderlands x Showtime
 2. Vivid Bad Squad
 3. More More Jump!
 4. Leo/Need
 
-I will have a page for each group and my opinions on them in the future.
-
-
-Favorite Characters From Each Group
+#### Favorite Characters From Each Group
 Leo/Need: Hinomori Shiho
 More More Jump!: Momoi Airi
 Vivid Bad Squad: Shiraishi An/Aoyagi Toya
 Wonderlands x Showtime: Tenma Tsukasa (All time favorite)
 Nightcord at 25:00: Akiyama Mizuki (Also all time favorite)
 
+I will have a page for each group, character and my opinions on them in the future.
 
 
-User IDs:
+### User IDs:
 
 Main Account(On Worldwide Server): 260911482093518852
 Alternate Account (On Worldwide Server): 289531683634417670
