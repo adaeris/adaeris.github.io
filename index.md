@@ -1,9 +1,10 @@
+# Main Page
 
-[Escape Room](https://adaeris.github.io/mars/index.html#)
+Hi! This is my website just about my opinions on things and other random stuff (I don't know what to write ok?), online I go by Mizu.
 
-A few things I enjoy include: Danganronpa, Happy Sugar Life, Project Sekai, Cookie Run Kingdom, Omori, Anime, and books
+A few things I enjoy include: Danganronpa, Happy Sugar Life, Project Sekai: Colorful Stage!, Cookie Run Kingdom, Omori, anime, books, and vocaloid music.
+
 Anime include: 
-
 Sword Art Online, Gun Gale Online, No Game No Life, The Disasterous Life of Saiki K., Noragami, K-On!, Toradora!,and Toilet-Bound Hanako-kun.
 
 Other games I like:
@@ -17,5 +18,12 @@ I am starting to read the Lunar Chronicles and The Hunger Games as well.
 This was 100% not last updated like a year ago.
 I'll probably start updating this with more info on the things I like.
 
+Other Pages:
+
+[Project Sekai: Colorful Stage!](adaeris.github.io/ProjectSekai.md)
+
+[Escape Room](https://adaeris.github.io/mars/index.html#)
+
 (Shameless plug)
+
 YouTube Channel for Project Sekai content: https://www.youtube.com/channel/UCq5-z3X0Za-oR4l0Rpgyrqg
