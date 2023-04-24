@@ -38,7 +38,9 @@ I will have a page for each group, character and my opinions on them in the futu
 ### User IDs:
 
 Main Account(On Worldwide Server): 260911482093518852
+Name: ThisGameRobbedMyGems
 
 Alternate Account (On Worldwide Server): 289531683634417670
+Name: Hi (thumb player)
 
 Feel free to friend me!
