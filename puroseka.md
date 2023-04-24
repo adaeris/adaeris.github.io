@@ -7,7 +7,7 @@ So what I'm up to, opinions, as well as user IDs for both accounts I have will b
 
 ### What I'm currently up to:
 
-Main account: Saving for the "On the Stage of Dazzling Light" Tsukasa card (at 15k :D)
+Main account: Nothing at the moment, currently salty about getting 4* Rui instead of Tsukasa though D:<
 
 Alternate account: Nothing really
 
